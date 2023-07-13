@@ -1,18 +1,16 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Muhammad Yousuf 👋<a href="https://github.com/Yousuf-Ghafoor"></h1>
+    <h1> Hi there, I'm Yousuf Ghafoor👋<a href="https://yousuf-ghafoor.github.io/Portfolio-theme/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Yousuf-Ghafoor">
+<a href="https://github.com/Yousuf-Ghafoor"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Web+Developer;Java+Developer;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
-<!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
- -->
 
+🤵 Front End Web Developer 
 
-📓 I’m currently learning Chatbots & Genrative AI... 😭
+✨ Favorite Tech: Javascript, React
 
-💪 I have the command Html, CSS, javascript and Tailwind CSS .
+📓 I’m currently learning Chatbots and Genrative AI... 😭
 
 📧 mohammad30yousuf30@gmail.com
 
@@ -24,36 +22,51 @@
 
 <table width="100">
 <tr>
-    <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
+
+ <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
 
-  <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
+<td align='center' width="200">
+        <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" width="80">
     </td>
- <td align='center' width="200">
+
+<td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
+
  <td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
+        <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" width="80">
     </td>
+
  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="100">
     </td>
  
 </tr>
  
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+
+<td align='center' width="200">
+        <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png">
     </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
+
+<td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="80">
     </td>
+
+<td align='center' width="200">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
+    </td>
+
+<td align='center' width="200">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
+    </td>
+
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
-     
+
 </tr>
  
 
@@ -61,9 +74,8 @@
 </table>
 </p>
 <p align="center">
-<a href="www.linkedin.com/in/muhammad-yousuf-1a8580267"><img src="https://img.shields.io/badge/-Muhammad Yousuf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mohamamd30yousuf30@gmail.com"><img src="https://img.shields.io/badge/-mohammad30yousuf@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
+<a href="www.linkedin.com/in/muhammad-yousuf-1a8580267"><img src="https://img.shields.io/badge/-Yousuf-Ghafoor-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mohammad30yousuf30@gmail.com"><img src="https://img.shields.io/badge/-mailto:mohammad30yousuf30@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
  
 <br>
