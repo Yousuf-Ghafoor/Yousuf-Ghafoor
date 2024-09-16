@@ -3,13 +3,13 @@
     <h1> Hi there, I'm Yousuf Ghafoor👋<a href="https://yousuf-ghafoor.github.io/Portfolio-theme/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Yousuf-Ghafoor"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;
+<a href="https://github.com/Yousuf-Ghafoor"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Front+End+Wev+Developer;
 						    &font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
-🤵 AI Developer 
+🤵 AI Developer & Fornt End Web Developer
 
-✨ Favorite Tech: Python,Numpy,Pandas,Matplotlib,OpenCV,MYSQL,PGSQL
+✨ Favorite Tech: Python, Numpy, Pandas ,Matplotlib, OpenCV, MYSQL, PGSQL,
 
 📓 Chatbots and Genrative AI... 😭
 
