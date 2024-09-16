@@ -7,11 +7,11 @@
 						    &font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
-🤵 Front End Web Developer 
+🤵 AI Developer 
 
-✨ Favorite Tech: Javascript, React
+✨ Favorite Tech: Python,Numpy,Pandas,Matplotlib,OpenCV,MYSQL,PGSQL
 
-📓 I’m currently learning Chatbots and Genrative AI... 😭
+📓 Chatbots and Genrative AI... 😭
 
 📧 mohammad30yousuf30@gmail.com
 
